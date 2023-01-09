@@ -7,6 +7,8 @@ Displays server latency in Discord.
 To deploy this project run
 
 ```bash
+  git clone https://github.com/priv4cy/discord-server-latency/
+  cd discord-server-latency
   npm i
 ```
 
