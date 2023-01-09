@@ -6,7 +6,7 @@ const token = 'token';
 bot.on('ready', () => {
     console.log('Ready');
     bot.application.commands.set([
-        { name: 'ping', description: 'Comprobar la latencia y el estado del Main Server', options: [], }
+        { name: 'ping', description: 'Check the latency and status of the Main Server', options: [], }
     ]);
 });
 
